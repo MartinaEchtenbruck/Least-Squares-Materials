@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+ 
+<html>
+<head>
+    <title>Interactive Optimization</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" ></script>
+    <script src="leastsquares.js"></script>
+</head>
+<body>
+  <div style="display: flex; justify-content: center; align-items: flex-start; margin-top: 60px;">
+    <div style="float:left; margin: 0 15px 0 0;">
+      <canvas id="canvas" width="460" height="460" style="border: gray thin solid;cursor:crosshair"></canvas>           
+    </div>
+		
+	
+    <div id="fitLine" style="border-radius:6px;border:gray thin solid;width:90px;text-align:center;color:#bbb;background-color:#eee;float:left; margin-right:10px;cursor: pointer">fit line</div>
+    <div id="clear" style="border-radius:6px;border:gray thin solid;width:90px;text-align:center;background-color:#eee;float:left;
+	margin-right:10px;cursor: pointer">clear</div>
+	<div id="bath" style="border-radius:6px;border:gray thin solid;width:200px;text-align:center;background-color:#eee;float:left; margin-right:10px;cursor: pointer">Schwimmbad-Daten laden</div>
+  </div>
+  
+</body>
+</html>
