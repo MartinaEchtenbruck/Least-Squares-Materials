@@ -33,7 +33,7 @@ Least-Squares-Materials/
 │  
 ├── 03_app/                         # Interaktive Javascript-Anwendung zur Visualisierung der Methode  
 │   ├── index.html                  # Einstiegspunkt für die Anwendung  
-│   ├── script.js                     
+│   └── script.js                     
 |  
 ├── 04_exercises/                   # Übung und Lösung (PDF + Jupyter Notebook)  
 │   ├── exercise.pdf        		# Aufgabenblatt  
