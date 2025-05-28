@@ -41,3 +41,5 @@ Least-Squares-Materials/
 │  
 └── 05_literature/                  # Ergänzende Literatur  
       └──                  			#   
+
+<pre class="language-markdown">```markdown Least-Squares-Materials/ │ ├── README.md │ ├── 01_slides/ # Vorlesungsfolien als PDF │ └── least-squares_slides.pdf │ ├── 02_example/ # Beispielrechnung aus der Vorlesung in einem Jupyter Notebook │ └── example.ipynb │ ├── 03_app/ # Interaktive Javascript-Anwendung zur Visualisierung der Methode │ ├── index.html # Einstiegspunkt für die Anwendung │ └── script.js │ ├── 04_exercises/ # Übung und Lösung (PDF + Jupyter Notebook) │ ├── exercise.pdf # Aufgabenblatt │ └── solution.ipynb # Lösung im Jupyter Notebook │ └── 05_literature/ # Ergänzende Literatur ```</pre>
