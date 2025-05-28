@@ -5,16 +5,16 @@ Das Repository enthält neben den Vorlesungsfolien, begelitende Materialien, Üb
 
 ## Inhalte des Repositories im Überblick
 
-Vorlesungsfolien: 
+**Vorlesungsfolien:** 
 Übersicht zur Methode der kleinsten Quadrate mit Motivation, Herleitung und Anwendungen.
 
-Übung + Lösung: 
+**Übung + Lösung:** 
 Zum eigenständigen Bearbeiten und Verstehen der Methode anhand eines einfachen Beispiels.
 
-Beispielrechnung: 
+**Beispielrechnung:**
 Vollständig durchgerechnetes Beispiel mit Daten und visualisierten Ergebnissen.
 
-Interaktive Anwendung: 
+**Interaktive Anwendung:** 
 Eine HTML/JavaScript-Webseite, mit der die Methode explorativ erkundet werden kann.
 
 
